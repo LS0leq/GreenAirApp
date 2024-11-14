@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/GreenAir/static/css/main.c0b179da.css",
-    "main.js": "/GreenAir/static/js/main.1a4c228a.js",
-    "static/js/787.0089b324.chunk.js": "/GreenAir/static/js/787.0089b324.chunk.js",
-    "static/media/leafs-1.png": "/GreenAir/static/media/leafs-1.162be7feb38d6df4f336.png",
-    "static/media/leafs02.png": "/GreenAir/static/media/leafs02.d391705b8b89b8db3ca5.png",
-    "static/media/mghero.png": "/GreenAir/static/media/mghero.27f85e7956ccda074383.png",
-    "static/media/hero-bgh.jpg": "/GreenAir/static/media/hero-bgh.9fca7b0e106f63bcd419.jpg",
-    "static/media/note.png": "/GreenAir/static/media/note.3ba203642931ab705c13.png",
-    "static/media/bgnote.png": "/GreenAir/static/media/bgnote.7cd67181810d769c66ff.png",
-    "static/media/bee.webm": "/GreenAir/static/media/bee.8afe6aff076a27747c78.webm",
-    "index.html": "/GreenAir/index.html",
-    "main.c0b179da.css.map": "/GreenAir/static/css/main.c0b179da.css.map",
-    "main.1a4c228a.js.map": "/GreenAir/static/js/main.1a4c228a.js.map",
-    "787.0089b324.chunk.js.map": "/GreenAir/static/js/787.0089b324.chunk.js.map"
+    "main.css": "/GreenAirApp/static/css/main.c0b179da.css",
+    "main.js": "/GreenAirApp/static/js/main.04ebf83e.js",
+    "static/js/787.0089b324.chunk.js": "/GreenAirApp/static/js/787.0089b324.chunk.js",
+    "static/media/leafs-1.png": "/GreenAirApp/static/media/leafs-1.162be7feb38d6df4f336.png",
+    "static/media/leafs02.png": "/GreenAirApp/static/media/leafs02.d391705b8b89b8db3ca5.png",
+    "static/media/mghero.png": "/GreenAirApp/static/media/mghero.27f85e7956ccda074383.png",
+    "static/media/hero-bgh.jpg": "/GreenAirApp/static/media/hero-bgh.9fca7b0e106f63bcd419.jpg",
+    "static/media/note.png": "/GreenAirApp/static/media/note.3ba203642931ab705c13.png",
+    "static/media/bgnote.png": "/GreenAirApp/static/media/bgnote.7cd67181810d769c66ff.png",
+    "static/media/bee.webm": "/GreenAirApp/static/media/bee.8afe6aff076a27747c78.webm",
+    "index.html": "/GreenAirApp/index.html",
+    "main.c0b179da.css.map": "/GreenAirApp/static/css/main.c0b179da.css.map",
+    "main.04ebf83e.js.map": "/GreenAirApp/static/js/main.04ebf83e.js.map",
+    "787.0089b324.chunk.js.map": "/GreenAirApp/static/js/787.0089b324.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c0b179da.css",
-    "static/js/main.1a4c228a.js"
+    "static/js/main.04ebf83e.js"
   ]
 }
