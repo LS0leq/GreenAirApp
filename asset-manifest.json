@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/GreenAirApp/static/css/main.c0b179da.css",
-    "main.js": "/GreenAirApp/static/js/main.f0cac146.js",
+    "main.js": "/GreenAirApp/static/js/main.d8a58746.js",
     "static/js/787.0089b324.chunk.js": "/GreenAirApp/static/js/787.0089b324.chunk.js",
     "static/media/leafs-1.png": "/GreenAirApp/static/media/leafs-1.162be7feb38d6df4f336.png",
     "static/media/leafs02.png": "/GreenAirApp/static/media/leafs02.d391705b8b89b8db3ca5.png",
@@ -12,11 +12,11 @@
     "static/media/bee.webm": "/GreenAirApp/static/media/bee.8afe6aff076a27747c78.webm",
     "index.html": "/GreenAirApp/index.html",
     "main.c0b179da.css.map": "/GreenAirApp/static/css/main.c0b179da.css.map",
-    "main.f0cac146.js.map": "/GreenAirApp/static/js/main.f0cac146.js.map",
+    "main.d8a58746.js.map": "/GreenAirApp/static/js/main.d8a58746.js.map",
     "787.0089b324.chunk.js.map": "/GreenAirApp/static/js/787.0089b324.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c0b179da.css",
-    "static/js/main.f0cac146.js"
+    "static/js/main.d8a58746.js"
   ]
 }
